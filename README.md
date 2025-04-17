@@ -1,21 +1,15 @@
----Project Name :- EcoFarm
+# EcoFarm – Agriculture Platform
 
-#### Service Management for Agriculture
--- Designed and Developed to manage Agricultural Services 
+**2nd Year – 1st Semester Project**
 
-#### Admin Features
-- Login
-- Manage Services, Manage Users
+## Overview
+EcoFarm is a simple system where users can participate in agriculture services. Admins manage the services and user accounts.
 
-#### Customer Features
-- Register
-- Login
-- Subscribe Services
+## User Roles
 
-##### Technoglogies Used
-- PHP
-- MySQL
-- JavaScript
-- HTML/CSS
+### User
+- Join available agriculture services
 
-
+### Admin
+- Manage users
+- Manage agriculture services
